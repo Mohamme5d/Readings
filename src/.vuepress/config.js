@@ -5,7 +5,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Mohammedoz ',
+  title: 'Mohammedoz\'s Readings',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -54,7 +54,7 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'using-vue',
+           // 'using-vue',
           ]
         }
       ],
