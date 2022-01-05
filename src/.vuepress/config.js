@@ -44,7 +44,7 @@ module.exports = {
       },
       {
         text: 'Linkedin',
-        link: 'https://Linkedin.com/alsayani.mohammed'
+        link: 'https://www.linkedin.com/in/alsayani-mohammed/'
       }
     ],
     sidebar: {
